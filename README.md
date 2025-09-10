@@ -1,1 +1,1 @@
-# trabalho2_AM_Davi
+## Trabalho dedicado à disciplina de Aprendizado de Máquina, feito no Jupyter Notebook, com o objetivo de utilizar técnicas de classificação de Machine Learning para a segmentação de clientes para um novo produto de uma determinada empresa. 
